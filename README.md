@@ -28,15 +28,15 @@ en el cuerpo de la función y las devuelvo.
 ![tercero](imagenes/tercero.png)
 
 > Lo que esta indicado en amarillo muestra que le estoy 
-> pasando el metodo al filtro
+> pasando el método creado al filtro
 > "the content".
 
-_Nota: He cambiado el metodo `str_replace()` 
+_Nota: He cambiado el método `str_replace()` 
 del código copiado por `str_ireplace()` el cual
-, al contrario que el anterior, no tiene en cuenta "caseSensitive"._
+, al contrario que el anterior, no tiene en cuenta "caseSensitive".
 
-### Configuracion wordpres
-Abro mi wordpress en el navegador, activo el pluggin y lo checkeo
+### Configuracion Wordpress
+Abro mi Wordpress en el navegador, activo el pluggin y lo checkeo
  para que se visualizce:
 ![cuarto](imagenes/cuarto.png)
 
